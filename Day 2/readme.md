@@ -1,5 +1,5 @@
  Day 2: Print Function #1
-## **Task**: Write a Python program that takes two numbers as input and prints the sum, difference, product, and quotient (if the second number is not zero) of those two numbers.
+## **Task**: Write a Python program that takes two numbers as input and prints the sum, difference, product, quotient, floor division and remainder (if the second number is not zero) of those two numbers.
 
 **Description**:
 ### Basic Arithmetic in Python
