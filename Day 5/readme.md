@@ -11,7 +11,7 @@ i = 1
 
 # While loop to print numbers from 1 to 5
 while i <= 5:
-    print(i,end" ")
+    print(i, end=" ")
     i += 1  # Increment the counter by 1
 
 Output: 
