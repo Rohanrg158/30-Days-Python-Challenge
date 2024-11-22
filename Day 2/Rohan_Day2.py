@@ -18,5 +18,3 @@ print(floor_div)
 
 remainder=num1%num2
 print(remainder)
-
-
